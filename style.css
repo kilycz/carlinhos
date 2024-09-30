@@ -12,4 +12,7 @@ display: flex;
 
     margin: 1rem 1rem;
    background-color: rgb(119, 158, 119);
+     height: 20rem;
+   flex-grow: 1;
+   flex-basis: calc(33% -6rem);
 }
